@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Qual combustível abastecer ?</string>
+    <string name="hintAlcool">Preço do álcool</string>
+    <string name="hintGasolina">Preço da gasolina</string>
+    <string name="rotuloBotao">Calcular</string>
+    <string name="rotuloResultado">Resultado da operação</string>
+</resources>
